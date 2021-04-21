@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dream Log</string>
+    <string name="add_dream">Log a Dream</string>
+    <string name="editText_titleHint">Dream Title</string>
+    <string name="editText_descHint">What Happened?</string>
+    <string name="editText_interpret">What\'s Your Interpretation?</string>
+    <string name="textView_feelings">How Do You Feel?</string>
+    <string name="button_save">Save</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string-array name="emotions_array">
+        <item>Fear</item>
+        <item>Panic</item>
+        <item>Loss of Self</item>
+        <item>Grief</item>
+        <item>Freedom</item>
+        <item>Love</item>
+        <item>Joy</item>
+        <item>Vulnerability</item>
+        <item>Confused</item>
+        <item>Sad</item>
+    </string-array>
+</resources>
